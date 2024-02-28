@@ -1,0 +1,12 @@
+h1 {
+    color: blueviolet;
+    text-align: center;
+    font-size: large;
+}
+
+body {
+    text-align: center;
+    background-color: rgb(43, 2, 2);
+    color: white;
+    margin-top: 300px;
+}
